@@ -26,7 +26,7 @@ This game is a project I made to learn a new technology and improve myself durin
     1. [Coin](#coin)
     1. [Health Potion](#health-potion)
 1. [Camera Follow System](#camera)
-1. [contact](#contact)
+1. [Contact](#contact)
   
 <!-- /MarkdownTOC -->
 </details>
@@ -192,5 +192,6 @@ I used a package called [Cinemachine](https://docs.unity3d.com/Packages/com.unit
 
 >    Batuhan Demiray
 >    <p>Pamukkale University - Computer Engineering
-    <a id="contact"></a>
+
+<a id="contact"></a>
 Contact Me on [Linkedin](https://www.linkedin.com/in/batuhan-demiray-90b85b1b7/) | [Facebook](https://www.facebook.com/batuhan.demiray)
